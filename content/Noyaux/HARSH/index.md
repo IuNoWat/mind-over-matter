@@ -4,9 +4,9 @@ licence: CC BY-NC-SA
 ---
 # Intention
 
-Le Noyau HARSH est une variation du Noyau BASE, conçu pour être plus réaliste, plus violent et plus intense. Il comprends un système de confrontations et d'épreuves basées sur un D10, des nouvelles règles d'affrontement, de points de vie et de blessure, et un module d'armement dédié. L'utilisation du D10 implique des bonus beaucoup plus impactants, et de plus grandes disparités dans les capacités des Personnages Joueurs et Non-Joueurs. 
+Le Noyau HARSH est une variation du Noyau [[Noyaux/BASE/index|BASE]], conçu pour être plus réaliste, plus violent et plus intense. Il comprends un système de confrontations et d'épreuves basées sur un D10, et des nouvelles règles d'affrontement et de blessures L'utilisation du D10 implique des bonus beaucoup plus impactant, et de plus grandes disparités dans les capacités des Personnages.
 
-Le but du module HARSH est de raconter des affrontement réalistes et intenses où le moindre mauvais coup peut être fatal et où tout peux basculer en une fraction de seconde. Chaque combat y est un danger mortel, et doit faire hésiter les Joueuses en conséquence.
+Le but du Noyau HARSH est de mettre en scène des situations de tensions intenses et réalistes où tout peux basculer en un seul instant, et où la moindre erreur risque d'être fatale. Chaque combat y est un danger mortel, et doit faire hésiter les Joueuses en conséquence.
 
 # Règles de Résolution
 
@@ -36,10 +36,10 @@ A l'inverse, il arrive qu'un Personnage aie à faire un jet de dès alors qu'il 
 L'attribution d'un Avantage ou d'un Désavantage n'est jamais automatique, elle dépend toujours du contexte d'un jet de dès. Les Joueuses peuvent le demander si elles l'estiment justifié, mais c'est la Conteuse qui décide de le donner ou pas.
 
 ## Critiques
-Quand une Joueuse lance un D10 et fait un 10, c'est une Réussite Critique. Quel que soit le Degré de Difficulté (dans le cas d'une Epreuve) ou la valeur de l'adversaire (dans le cas d'une Confrontation), l'action est réussie.
-Quand une Joueuse lance un D10 et fait un 1, c'est un Echec Critique. Quel que soit le Degré de Difficulté (dans le cas d'une Epreuve) ou la valeur de l'adversaire (dans le cas d'une Confrontation), l'action est échouée.
+Quand une Joueuse lance un D10 et fait un 10, c'est une **Réussite Critique**. Quel que soit le Degré de Difficulté (dans le cas d'une Epreuve) ou la valeur de l'adversaire (dans le cas d'une Confrontation), **l'action est réussie**.
+Quand une Joueuse lance un D10 et fait un 1, c'est un **Echec Critique**. Quel que soit le Degré de Difficulté (dans le cas d'une Epreuve) ou la valeur de l'adversaire (dans le cas d'une Confrontation), **l'action est échouée**.
 
-Un Critique est également l'occasion d'un changement de narration. C'est à la Joueuse ayant fait le critique de décrire la scène et de détailler en quoi sa réussite est particulièrement exceptionnelle, ou son échec particulièrement cuisant. Elle a à cette occasion le droit de demander des bonus ou des malus de jeu si la situation le justifie (Avantage ou Désavantages, dégâts supplémentaires ou blessures graves, gain d'objet ou d'expérience, etc).
+Un Critique est également l'occasion d'un changement de narration. **C'est à la Joueuse ayant fait le critique de décrire la scène** et de détailler en quoi sa réussite est particulièrement exceptionnelle, ou son échec particulièrement cuisant. Elle a à cette occasion le droit de demander des bonus ou de s'imposer des malus si la situation le justifie (Avantage ou Désavantages, dégâts supplémentaires ou blessures graves, gain d'objet ou d'expérience, etc).
 
 # Personnages 
 Les Personnages joués par les Joueuses sont définis par un ensemble de scores qui influencent leurs jets. Ces score sont leurs Caractéristiques, leurs Compétences et leurs Capacités.
@@ -90,28 +90,42 @@ Pour autant, les Personnages doivent posséder des pouvoirs, des aptitudes ou de
 
 
 # Combat
+
 ## Point de Vie
 
 Chaque Personnage a un total de 7 Points de Vie, et en gagne ou en perd en fonction de son bonus de Force. Une bonne nuit dans une auberge confortable permet de regagner 1 PV. En bivouac, pas de soin qui ne nécessite un jet.
 
-| Point de vie | Effet                                                                                                   |
-| :----------: | :------------------------------------------------------------------------------------------------------ |
-|      7+      | Le Personnage est en pleine forme, il a +1 à ses jets de caractéristique !                              |
-|     5-6      | Le Personnage va bien, il n'a ni malus ni bonus                                                         |
-|     3-4      | Le Personnage est un peu blessé, il a -1 à ses jets de caractéristique                                  |
-|     1-2      | Le Personnage est salement amoché, il a -2 à ses jets de caractéristique                                |
-|      0       | Le Personnage n'a plus qu'un souffle de vie, il ne peux pas agir, et risque de mourrir à chaque instant |
+| Point de vie | Effet                                                                                                  |
+| :----------: | :----------------------------------------------------------------------------------------------------- |
+|     Max      | Le Personnage est en pleine forme, il a +1 à ses jets de caractéristique !                             |
+|     5-6      | Le Personnage va bien, il n'a ni malus ni bonus                                                        |
+|     3-4      | Le Personnage est un peu blessé, il a -1 à ses jets de caractéristique                                 |
+|     1-2      | Le Personnage est salement amoché, il a -2 à ses jets de caractéristique                               |
+|      0       | Le Personnage n'a plus qu'un souffle de vie, il ne peux pas agir, et risque de mourir à chaque instant |
+Le passage d'un Personnage Joueur à 0 points de vie force un Lancer d'Initiative pour toutes les personnes présentes. Le Personnage à 0 points de vie ne peux pas agir, et au début de chacun de ses tours de jeu. la Conteuse joue à Pile ou Face. Si elle tombe sur Pile, le Personnage meurt.
+
+L'initiative se poursuit jusqu'à ce que le Personnage soit stabilisé ou meure. 
 ## Combat
 
->Les combats se font au tour par tour de 6 secondes dans l'ordre d'un jet d'Instinct.
+>Les combats se font au tour par tour de 6 secondes, à partir d'un Lancer d'Initiative.
 
-Les Attaques se font sur Adresse + Compétence d'arme.
+La Joueuse peut décrire ses déplacements, ses actions et ses paroles dans ces 6 secondes. L'attaque se fait sur une Confrontation ou sur une Epreuve, en fonction de la situations. Face à une attaque un Personnage peux Esquiver (Adresse+Athlétisme) ou Parer (Adresse+Compétence d'Arme).
 
-On ne peux répondre à une Attaque que par une Parade ou une Esquive, mais les Esquive consomment le tour de la cible. 
+>[!tip] Quelques exemples :
+> Un PJ armé d'une lance attaque un PNJ qui le voit, et qui essaye d'esquiver : **Conf AD+Lance vs AD+ATH**
+> Un PNJ armé d'un arc attaque un PJ qui le voit, et qui essaye d'esquiver : **Conf AD+Arc vs AD+ATH**
+> Un PJ armé d'un arc attaque un PNJ qui ne le voit pas : **Epreuve AD+Arc DD 4 (Facile)**
+> Un PNJ armé d'une épée attaque un PNJ armé d'une épée, qui le voit et qui essaye de parer : **Conf AD+épée vs AD+épée**
 
-Les Jets de Parade se font sur Adresse + Compétence d'arme.
-Les Jets d'Esquive se font sur Adresse + Athlétisme.
+Si un Personnage décide d'Esquiver en réponse à une attaque, il ne peux rien faire d'autre ce tour de jeu. A l'inverse, il est possible de Parer et d'agir ensuite.
+
+>[!warning]
+>En fonction de sa position dans le Lancer d'Initiative, un Personnage aura donc la possibilité d'agir à son tour, puis d'esquiver des attaques jouées après lui. Mais à l'inverse, si un Personnage décide d'Esquiver avant que son tour de jeu ne soit arrivé, il ne pourra rien faire d'autre durant son tour.
+>**C'est un choix intentionnel**, le premier à agir, et à frapper, a un avantage presque écrasant. 
+
 ## Dégâts
+
+Une Attaque réussie permet au Personnage d'infliger les dégats de son Arme, augmenté dans certains cas d'un bonus de Force.
 
 Les armes sont réparties en 3 tier de dangerosité, définissant leurs dégrats :
 
@@ -127,39 +141,71 @@ Les armes sont réparties en 3 tier de dangerosité, définissant leurs dégrats
 | Marteaux, Masses d'armes, Fléaux            | Tier 2  | CAC Contondant | 2D4+FO |                               |
 | Armes à feu                                 | Tier 3  |  DIST Perçant  |  3D4   |                               |
 | Armes dentelées, enchantées, à pointes, etc | +1 Tier |    variable    |  +1D4  |                               |
-
 Les armures sont également réparties en 3 tier de protection, qui retranchent une partie des dégâts reçus :
 
 | Type d'armure                       |  Tier  | Protection |
 | :---------------------------------- | :----: | :--------: |
-| Vetement de ville, légers           | Tier 0 |     0      |
+| Vetement de ville, légers           | Tier 0 |     1      |
 | Vetements épais, de voyage, en cuir | Tier 1 |     2      |
-| Protections en cuir                 | Tier 2 |     4      |
-| Cote de maille, armure de plates    | Tier 3 |     6      |
+| Protections en cuir                 | Tier 2 |     3      |
+| Cote de maille, armure de plates    | Tier 3 |     5      |
+>[!warning]
+>La plupart des armes peuvent enlever tous les points de vie d'un Personnage d'un seul coup. **C'est un choix intentionnel**, un combat à mort n'est jamais à prendre à la légère, et un acier acéré est toujours dangereux.
+>Le système est équilibré autour de Personnage qui hésiterons à risquer leur vie, et qui réfléchirons à deux fois avant d'enlever leur armure.
 ### Types de dégats
 
 Les armes ont chacunes un type de dégat, qui défini ce qui arrive en cas de Coup Critique (10) ou d'Echec Critique (1). Il existe trois types de dégats de base
 - **Tranchant** : Le coup fait une entaille profonde dont le sang s'écoule rapidement. La cible perd 1 pv au début de chacun de ses tours.
-- **Perçant** : Le coup touche un point sensible non protégé. La cible prends les dégâts maximaux de l'arme, et ne retranche aucune armure.
+- **Perçant** : Le coup touche un point sensible non protégé. La cible ne retranche aucune armure.
 - **Contondant** : Le coup est d'une violence exceptionnelle. La cible passe son prochain tour.
 
+# Créer son Personnage
 
-## Créer son personnage
+## 0 - L'idée générale
 
-- Repartir ses Caractéristiques avec +2, +1, 0, -1 et -2
-- Choisir sa Classe en fonction de ses deux caractéristiques positives
-- Répartir 5 Point de Compétence
-- Créer une Compétence +2
-- Créer deux Compétences +1
-- Tirer sa nourriture (2D6 rations)
-- Tirer son Or (2D6 PO)
-- Choisir son objet rare :
+Avant de faire des choix dans des listes et de compter des points, prenez d'abord le temps de réfléchir à votre Personnage. Est-ce que vous avez déjà une idée précises ? Ou juste des certitudes sur ce que vous voulez ou ne voulez pas ? Essayez de noter ce qui vous semble important pour vous, quoi que ce soit.
 
-| Objet                     | Effet                                                   |
-| ------------------------- | ------------------------------------------------------- |
-| Potion de soin            | Rend instantanément 1 PV et soigne les altérations      |
-| Parchemin de Purification | Purifie une souillure chaotique limitée                 |
-| Brochure du Général Nomad | Peu donner des informations sur le Nouveau Monde        |
-| Ration de la Légion       | Rempli l'estomac d'un groupe d'aventuriers pour 2 jours |
-| Elixir d'écorce elfique   | Permets de faire une nuit blanche sans malus            |
-| Parchemin de boule de feu | Inflige 2D4 de feu sur un jet AD+Tir                    |
+Ensuite, tentez de répondre à ces questions pour approfondir votre idée :
+
+- Qui est mon Personnage ? Qu'est-ce qui guide les choix qu'il fait ?
+- Qu'est-ce qu'il aime et qu'est-ce qu'il n'aime pas ?
+- Quelle est l'émotion qu'il ressent le plus souvent ? Et quelle émotion ne ressent-il presque jamais ?
+- Comment résout-il ses problèmes ? En quoi est-il doué, et à l'inverse, quelles sont ses faiblesses ?
+- A quoi ressemble-t-il ? Quel est son âge, sa carnation, sa pilosité, son genre présumé ?
+- Quel est son nom est son histoire ? Comment as-t-il été élevé et par qui ? Quels souvenirs en garde-t-il ?
+- Quels sont ses objectifs ? Qu'est ce qu'il rêve d'accomplir ? Qu'est ce qu'il a déjà accompli ?
+
+En répondant à ces questions, vous allez pouvoir approfondir ce que vous avez envie de faire et de raconter. N'hésitez pas si nécessaire à inventer des lieux, des personnages ou des évènements dans votre passé. A partir de cette base, il sera beaucoup plus facile de construire votre Personnage, mais vous pourrez toujours changer d'avis plus tard.
+
+Il est important de partager vos idées et vos envies avec votre Conteuse dès cette étape. Elle pourra vous guider dans ce qui est possible ou pas, et ce qui conviendra ou pas avec le scénario qu'elle a en tête. C'est également à elle d'approuver les lieux, personnages et évènements de votre passé, ou de vous proposer des alternatives.
+
+Une fois que vous êtes satisfaite de l'idée de votre Personnage, il va falloir traduire cette idée en Caractéristiques, en Compétences et en Capacités.
+## 1 - Les Caractéristiques
+
+Comme dit plus haut, votre Personnage est défini par 5 Caractéristiques fondamentales, qui représentent ce à quoi il est doué, ou pas. Au début de votre aventure, votre Personnage aura +1 dans 2 Caractéristiques, +0 dans une troisième,  et -1 dans les deux dernières.
+
+Vous pouvez répartir ces points comme vous le souhaitez, en fonction de l'idée générale que vous avez de votre Personnage.
+
+## 2 - Compétences Innées
+
+Votre Personnage a déjà un passé, qui lui a permis de développer certaines compétences. Vous avez 4 points à répartir comme vous le souhaitez entre les 8 Compétences Innées de votre Personnage, avec un maximum de 2 pour une seule Compétence.
+
+Vous pouvez gagner des points supplémentaires à répartir, en ajoutant des points négatifs dans d'autres Compétences innées. Au maximum, vous pouvez gagner 1 points supplémentaires à répartir en ajoutant 1 points négatifs à une de vos Compétences Innées. 
+
+## 3 - Compétences Acquises
+
+Votre Personnage a des compétences et des connaissances qui lui sont propres, qu'il vous appartient de définir. Vous disposez de trois Compétences Acquises que vous pouvez créer, en accord avec votre MJ.
+Ces trois Compétences Acquises sont à +1
+
+## 4 - Possessions
+
+Dans la plupart des cas, votre Personnage commencera son aventure avec un certain nombre d'objets sur lui. Il peux s'agir de possessions très simples, des vêtements, de la monnaie, une paire de lunettes, ou des objets plus importants, une arme de famille, un artefact maudit ou des lettres qui lui sont chères. Les possessions sont un bon moyen d'ajouter de la profondeur à votre Personnage, à condition que la Conteuse soit d'accord
+
+## 5 - Pour finir
+
+A moins que vous n'ayez une idée très précise en tête (ce qui est très bien aussi), il est probable que ayez du mal à faire d'un seul coup tous les choix nécessaires à la création de votre Personnage. **Cette création doit se faire avec la Conteuse, n'hésitez pas à lui poser toutes les questions qui vous viennent en tête au fur et à mesure.**
+
+La description finale de votre Personnage comprends deux choses :
+- Ses Statistiques, l'ensemble de ses Caractéristiques, Compétences, Capacités, etc, qui décrivent votre Personnage du point de vue des règles du jeu
+- Son Historique, un paragraphe de la longueur de votre choix, écrit à la première personne, dans lequel votre Personnage se décrit, raconte son passé et parle de ses objectifs futurs.
+
