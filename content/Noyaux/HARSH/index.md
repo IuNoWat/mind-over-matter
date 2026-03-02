@@ -102,6 +102,7 @@ Chaque Personnage a un total de 7 Points de Vie, et en gagne ou en perd en fonct
 |     3-4      | Le Personnage est un peu blessé, il a -1 à ses jets de caractéristique                                 |
 |     1-2      | Le Personnage est salement amoché, il a -2 à ses jets de caractéristique                               |
 |      0       | Le Personnage n'a plus qu'un souffle de vie, il ne peux pas agir, et risque de mourir à chaque instant |
+
 Le passage d'un Personnage Joueur à 0 points de vie force un Lancer d'Initiative pour toutes les personnes présentes. Le Personnage à 0 points de vie ne peux pas agir, et au début de chacun de ses tours de jeu. la Conteuse joue à Pile ou Face. Si elle tombe sur Pile, le Personnage meurt.
 
 L'initiative se poursuit jusqu'à ce que le Personnage soit stabilisé ou meure. 
@@ -113,8 +114,11 @@ La Joueuse peut décrire ses déplacements, ses actions et ses paroles dans ces 
 
 >[!tip] Quelques exemples :
 > Un PJ armé d'une lance attaque un PNJ qui le voit, et qui essaye d'esquiver : **Conf AD+Lance vs AD+ATH**
+> 
 > Un PNJ armé d'un arc attaque un PJ qui le voit, et qui essaye d'esquiver : **Conf AD+Arc vs AD+ATH**
+> 
 > Un PJ armé d'un arc attaque un PNJ qui ne le voit pas : **Epreuve AD+Arc DD 4 (Facile)**
+> 
 > Un PNJ armé d'une épée attaque un PNJ armé d'une épée, qui le voit et qui essaye de parer : **Conf AD+épée vs AD+épée**
 
 Si un Personnage décide d'Esquiver en réponse à une attaque, il ne peux rien faire d'autre ce tour de jeu. A l'inverse, il est possible de Parer et d'agir ensuite.
@@ -141,6 +145,7 @@ Les armes sont réparties en 3 tier de dangerosité, définissant leurs dégrats
 | Marteaux, Masses d'armes, Fléaux            | Tier 2  | CAC Contondant | 2D4+FO |                               |
 | Armes à feu                                 | Tier 3  |  DIST Perçant  |  3D4   |                               |
 | Armes dentelées, enchantées, à pointes, etc | +1 Tier |    variable    |  +1D4  |                               |
+
 Les armures sont également réparties en 3 tier de protection, qui retranchent une partie des dégâts reçus :
 
 | Type d'armure                       |  Tier  | Protection |
