@@ -1,7 +1,7 @@
 >[!tip]
 >Les normes et les conseils que vous trouverez ici découlent de la [[Philosophie|Philosophie de Mind Over Matter]]. N'hésitez pas à la consulter avant de poursuivre.
 
-Contrairement au Noyau, dont la structure est extrêmement rigide, le Module ne oise oresque aucune contrainte de création. Son but est justement d'offrir un espace de liberté aussi large que possible. Il ne contient qu'une seule partie obligatoire, qui vient en introduction : **l'Intention**.
+Contrairement au Noyau, dont la structure est extrêmement rigide, le Module ne pose presque aucune contrainte de création. Son but est justement d'offrir un espace de liberté aussi large que possible. Il ne contient qu'une seule partie obligatoire, qui vient en introduction : **l'Intention**.
 
 Dans l'Intention, l'auteur d'un Module décrit son but, l'expérience qu'il souhaite offrir.
 

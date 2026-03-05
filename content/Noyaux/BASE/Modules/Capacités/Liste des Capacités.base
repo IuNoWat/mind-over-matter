@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: Tableau
+    filters:
+      and:
+        - Module == "Capacités"
+    order:
+      - file.name
+      - Type
+      - Classe
+      - Esprit
+      - Noyau
+      - Module
