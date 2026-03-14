@@ -1,5 +1,5 @@
 ---
-title: Accueil
+title: Bienvenue sur le site de Mind Over Matter
 ---
 Mind Over Matter est un ensemble de systèmes de jeux de rôles qui sont **ouverts, adaptables et gratuits**. C'est un espace de partage et d'échange qui permet à chacun de choisir le système qui lui convient, de le modifier comme il le souhaite, puis de partager ses règles avec l'ensemble de la communauté.
 
@@ -10,7 +10,9 @@ Si vous êtes à la recherche d'un système de jeu tout prêt pour votre prochai
 
 Si vous souhaitez écrire un Module ou un Noyau, rapprochez-vous des [[Mind Over Matter/Guides de Création/index|Guides de Création]].
 
-Si vous avez écrit un Module ou un Noyau que vous souhaitez partager, il est maintenant temps de découvrir [[Comment contribuer]].
+
+
+Si vous avez écrit un Module ou un Noyau que vous souhaitez partager, il est maintenant temps de découvrir [[Contribuer|Comment contribuer]].
 
 >[!important] Pour Commencer
 > 

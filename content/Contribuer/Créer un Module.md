@@ -10,7 +10,7 @@ Dans l'Intention, l'auteur d'un Module décrit son but, l'expérience qu'il souh
 > Si vous souhaitez des exemples de Modules, vous pouvez consulter [[Noyaux/BASE/Modules/index|ceux du Noyau BASE]]
 
 
-Une fois votre Module écrit et testé, vous êtes encouragé à le [[Comment contribuer|partager à la communauté]].
+Une fois votre Module écrit et testé, vous êtes encouragé à le [[Contribuer|partager à la communauté]].
 
 TODO : intégrer des conseils de FALC
 

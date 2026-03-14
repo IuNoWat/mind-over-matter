@@ -14,7 +14,7 @@ La séparation entre ce qui tient du Noyau et ce qui tient d'un [[Créer un Modu
 > [!tip]
 > Si vous souhaitez un exemple de ce à quoi doit ressembler un Noyau, consultez le [[Noyaux/BASE/index|Noyau BASE]] qui est conçu pour s'initier aux grands principes de Mind Over Matter.
 
-Une fois votre Noyau écrit et testé, vous êtes encouragé à le [[Comment contribuer|partager à la communauté]].
+Une fois votre Noyau écrit et testé, vous êtes encouragé à le [[Contribuer|partager à la communauté]].
 
 TODO : intégrer des conseils de FALC
 
