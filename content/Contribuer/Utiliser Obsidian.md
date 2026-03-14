@@ -5,6 +5,6 @@ L'ensemble des fichiers texte qui constituent Mind Over Matter sont écrits en M
 
 Pour éditer Mind Over Matter, nous recommandons fortement l'utilisation d'Obsidian, un éditeur gratuit, puissant et personnalisable qui garanti un grand confort de consultation et de modification. Vous pouvez en apprendre plus à propos d'Obsidian ici : TODO LIEN
 
->[!warning]
+>[!warning] Attention
 >Le projet Mind Over Matter n'est cependant pas dépendant d'Obsidian, qui reste un logiciel propriétaire susceptible de changer. Il est tout à fait possible d'utiliser d'autres outils.
 

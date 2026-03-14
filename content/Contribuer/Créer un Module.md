@@ -7,15 +7,7 @@ Dans l'Intention, l'auteur d'un Module décrit son but, l'expérience qu'il souh
 
 >[!important]
 >**Il n'y a aucune contrainte de taille ou de complexitée.** Le Module peux s'expliquer en trois mots, ou nécessiter une complexe arborescence de fichiers. Seul compte le lien entre l'Intention et le moyens d'atteindre l'expérience souhaitée.
-
-On distinguera tout de même plusieurs grandes catégories de Module, même si elles peuvent se fondre en un seul.
-
-## Module de Lore
-
-## Module de Règle supplémentaire
-
-## Module de Classe
-
+> Si vous souhaitez des exemples de Modules, vous pouvez consulter [[Noyaux/BASE/Modules/index|ceux du Noyau BASE]]
 
 
 Une fois votre Module écrit et testé, vous êtes encouragé à le [[Comment contribuer|partager à la communauté]].

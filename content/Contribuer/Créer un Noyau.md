@@ -11,6 +11,9 @@ Comme son nom l'indique, le Noyau est au coeur du système de règle. Il contien
 
 La séparation entre ce qui tient du Noyau et ce qui tient d'un [[Créer un Module|Module facultatif]] est également au libre choix de l'auteur.  En fonction de l'Intention, certaines situations seront décrites avec précision dans le Noyau, ou au contraire laissées à la libre interprétation d'un Module facultatif.
 
+> [!tip]
+> Si vous souhaitez un exemple de ce à quoi doit ressembler un Noyau, consultez le [[Noyaux/BASE/index|Noyau BASE]] qui est conçu pour s'initier aux grands principes de Mind Over Matter.
+
 Une fois votre Noyau écrit et testé, vous êtes encouragé à le [[Comment contribuer|partager à la communauté]].
 
 TODO : intégrer des conseils de FALC

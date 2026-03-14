@@ -2,12 +2,17 @@ views:
   - type: table
     name: Tableau
     filters:
-      and:
-        - Module == "Capacités"
+      or:
+        - Type.containsAny("Action", "Objet", "Passif")
     order:
       - file.name
       - Type
       - Classe
-      - Esprit
       - Noyau
       - Module
+      - tags
+    sort:
+      - property: Type
+        direction: DESC
+      - property: Classe
+        direction: DESC

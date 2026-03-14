@@ -3,7 +3,7 @@ title: Accueil
 ---
 Mind Over Matter est un ensemble de systèmes de jeux de rôles qui sont **ouverts, adaptables et gratuits**. C'est un espace de partage et d'échange qui permet à chacun de choisir le système qui lui convient, de le modifier comme il le souhaite, puis de partager ses règles avec l'ensemble de la communauté.
 
->[!tip] En un mot,
+>[!tip] En un mot
 > Mind Over Matter est **un système open-source** de Jeu de Rôle Papier.
 
 Si vous êtes à la recherche d'un système de jeu tout prêt pour votre prochaine session, consultez [[Noyaux/index|la liste des Noyaux publiés]]. Pour commencer, nous vous conseillons le Noyau [[Noyaux/BASE/index|BASE]], qui est conçu spécifiquement pour une initiation aux principes de Mind Over Matter.

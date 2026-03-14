@@ -78,7 +78,7 @@ Les scores de ces Compétences varient entre des valeurs positives et négatives
 
 ## Capacités
 
-En plus des Caractéristiques et des Compétences qui les définissent, les Personnages doivent posséder des **Capacités**, des aptitudes actives ou passives qui correspondent à leur vécu. Dans la plupart des règles de jeu de rôle, on trouve un système de classe ou de métier qui définir ces aptitudes supplémentaires. 
+En plus des Caractéristiques et des Compétences qui les définissent, les Personnages doivent posséder des **Capacités**, des aptitudes actives ou passives qui correspondent à leur vécu. Dans la plupart des règles de jeu de rôle, on trouve un système de classe ou de métier qui définit ces aptitudes supplémentaires et leur évolution dans le temps.
 
 **Dans BASE, il n'y a pas de systèmes de classe**.
 

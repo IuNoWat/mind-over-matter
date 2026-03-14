@@ -2,7 +2,7 @@
 # TODO
 
 Pour Jouer
-- [ ] Faire une liste de capacités
+- [x] Faire une liste de capacités
 - [ ] Faire une carte sommaire
 - [x] Relire HARSH
 - [ ] Augmenter la Bible
@@ -18,9 +18,9 @@ Pour Présenter aux Copains
 
 Pour Publier
 - [ ] V1 Mind Over Matter
-	- [ ] Ecrire une première version des guides
-	- [ ] Faire un template de Noyau
-	- [ ] Faire un template de Module
+	- [x] Ecrire une première version des guides
+	- [x] Faire un template de Noyau
+	- [x] Faire un template de Module
 	- [ ] Terminer une v1 de Philosophie
 	- [ ] Quartz
 		- [ ] Faire un template de page
