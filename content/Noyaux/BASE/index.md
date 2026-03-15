@@ -1,5 +1,5 @@
 ---
-title: BASE
+title: Noyau BASE
 licence: CC BY-NC-SA
 ---
 # Intention
