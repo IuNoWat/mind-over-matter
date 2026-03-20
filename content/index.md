@@ -14,15 +14,18 @@ Mind Over Matter est un ensemble de systèmes de jeux de rôles qui sont **ouver
 </a>
 <div class="grid-container">
 
-<a href="Contribuer/Comment ca marche" class="grid-item">
+
+<a href="Contribuer/Fonctionnement" class="grid-item">
 <div class="icon">⚙</div>
-<div class="title">Comment ça marche ?</div>
+<div class="title">Fonctionnement</div>
+<div class="description">Comment ça marche ?</div>
 <div class="description"></div>
 </a>
 
 <a href="Contribuer/Philosophie" class="grid-item">
 <div class="icon">📖</div>
 <div class="title">Philosophie</div>
+<div class="description">Pourquoi faire ?</div>
 </a>
 
 <a href="Noyaux" class="grid-item">
@@ -41,4 +44,4 @@ Mind Over Matter est un ensemble de systèmes de jeux de rôles qui sont **ouver
 
 
 
-**Si vous êtes à la recherche d'un système de jeu tout prêt**, nous vous conseillons le [[Noyaux/BASE/index|Noyau BASE]], qui est conçu spécifiquement pour une initiation aux principes de Mind Over Matter.
+**Si vous êtes à la recherche d'un système de jeu tout prêt**, nous vous conseillons le Noyau [[Noyaux/BASE/index|BASE]], qui est conçu spécifiquement pour une initiation aux principes de Mind Over Matter.

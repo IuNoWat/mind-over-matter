@@ -14,6 +14,11 @@ Vous souhaitez quitter les rivages habituels du Jeu de Rôle ? BASE n'inclue pas
 Vous et vos Joueuses avez l'habitude d'autres systèmes ? BASE est volontairement conçue proche du système de Donjon & Dragons, pour ne pas perdre les nouvelles venues.
 
 Vous souhaitez participer à l'aspect Open Source de Mind Over Matter ? BASE possède un large choix de Modules variés, dans lesquels vous pourrez piocher une inspiration dans la forme et dans le fond.
+
+## Les règles au service de la narration, et pas l'inverse
+En jeu de rôle, ce sont les règles qui doivent servir l'histoire, et non pas l'inverse . Si une action fais sens d'un point de vue de l'histoire et du contexte, mais qu'elle n'est pas permise par les règles, celles-ci deviennent un poids dont il faut s'affranchir. Mais comme chaque histoire, chaque partie de jeu de rôle, chaque MJ est unique, il n'est pas possible pour un set de règles unique de répondre à des besoins aussi divers.
+
+Partant de ce constat, Mind Over Matter, ne propose pas un système de règle, mais un système de création de règle. Mind Over Matter est un méta-système de Jeu de Rôle, un outil qui offre des règles de base, et des guides qui vous permettent d'écrire des règles qui correspondent à votre histoire.
 # Règles de Résolution
 
 Mind Over Matter se joue principalement avec des D20, qui sont utilisés par les Joueuses et la Conteuse dans le cadre d'**Epreuves** et de **Confrontations**.

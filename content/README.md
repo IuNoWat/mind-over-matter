@@ -1,20 +1,28 @@
 
 # TODO
 
-Pour Jouer
+Pour Jouer à Nouveau Monde
 - [x] Faire une liste de capacités
-- [ ] Faire une carte sommaire
 - [x] Relire HARSH
-- [ ] Augmenter la Bible
-	- [ ] Définir le Chaos
-	- [ ] Faire une v1 de la carte générale
-	- [ ] Ajouter des enjeux :
-		- [ ] Définir la Légion
+- [ ] Ajouter un système de Spoilers
+- [ ] Faire une v1 de l'Intention
+- [ ] Faire une ébauche de lore concernant ;
+	- [ ] Le "Chaos"
+	- [ ] La Légion
+	- [ ] La Compagnie
+	- [ ] Les races jouables
+	- [ ] Une carte sommaire
+- [ ] Intégrer les icones lucide à quartz : https://lucide.dev/guide/packages/lucide
+
+Pour Jouer à Noir
+- [ ] Rédiger le supplément des Classes
+- [ ] Rédiger un Lore construit
+- [ ] Mettre en forme le scénario de 2025
 
 Pour Présenter aux Copains
 - [ ] Terminer une première version de la Philosophie
-- [ ] Résoudre le problème index
-- [ ] Prendre une décision pour le style
+- [x] Résoudre le problème index
+- [x] Prendre une décision pour le style
 
 Pour Publier
 - [ ] V1 Mind Over Matter
@@ -24,7 +32,6 @@ Pour Publier
 	- [ ] Terminer une v1 de Philosophie
 	- [ ] Quartz
 		- [ ] Faire un template de page
-		- [ ] Résoudre le problème de index
 		- [ ] Vérifier tous les liens
 - [ ] V1 Nouveau Monde
 	- [ ] Avancer le Lore du Nouveau Monde
@@ -35,16 +42,3 @@ Pour Publier
 
 # Notes
 
-## Quelques notes sur le Nouveau Monde
-- il faut rajouter de la verticalité et des complications aux moments de tension. L'action peux se passer :
-	- sur une corniche 
-	- dans un sentier pentu
-	- avec des grands arbres effondrés sur le chemin
-	- au milieux de gigantesques éboulis en
-- .
-Il faut des arènes qui ne soient pas des arènes*
-
-## Les règles au service de la narration, et pas l'inverse
-En jeu de rôle, ce sont les règles qui doivent servir l'histoire, et non pas l'inverse . Si une action fais sens d'un point de vue de l'histoire et du contexte, mais qu'elle n'est pas permise par les règles, celles-ci deviennent un poids dont il faut s'affranchir. Mais comme chaque histoire, chaque partie de jeu de rôle, chaque MJ est unique, il n'est pas possible pour un set de règles unique de répondre à des besoins aussi divers.
-
-Partant de ce constat, Mind Over Matter, ne propose pas un système de règle, mais un système de création de règle. Mind Over Matter est un méta-système de Jeu de Rôle, un outil qui offre des règles de base, et des guides qui vous permettent d'écrire des règles qui correspondent à votre histoire.

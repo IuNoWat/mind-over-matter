@@ -43,6 +43,9 @@ Bien trop souvent, la définition et l'application des règles de jeu est de la 
 Dans Mind Over Matter, les Joueuses ont accès aux mêmes documents de règle que la Conteuse, et elles sont tout aussi légitimes à écrire des Modules et des Noyaux et à les proposer à la table. En particulier, si des règles spécifiques à leur Personnage sont à écrire (par exemple des [[Créer une Classe|Classes]]), elles sont les mieux placées pour faire des propositions qui seront à discuter par l'ensemble de la table.
 
 Il faut concevoir les Règles du Jeu comme un corpus qui change et évolue au fil du temps, pour correspondre aux besoins de l'histoire et aux demandes des Joueuses ou de la Conteuse.
+
+> [!warning] Un grand pouvoir implique de grande responsabilités
+> Dans Mind Over Matter, les Joueuses ont accès aux mêmes informations que la Conteuse. Pour autant, la Conteuse conserve son rôle de Maître de Cérémonie, et c'est elle qui doit avoir le dernier mot sur comment les règles doivent être appliquées. Charge aux Joueuses de faire la part des choses entre les règles qui leur plaisent et les règles qui arrangent leur Personnage. 
 ## Jouer en Sécurité
 
 Consciemment ou non, nos façons de jouer amène des émotions et des thématiques réelles à nos tables. Celles-ci sont plus que bienvenues, mais elles ne doivent pas devenir un frein à la création ou au plaisir de jeu des Joueuses ou de la Conteuse. Les émotions et thématiques vécues doivent donc l'être avec le Consentement de toutes les personnes présentes, établi et renouvelé grâce à des outils de sécurité émotionnelle.

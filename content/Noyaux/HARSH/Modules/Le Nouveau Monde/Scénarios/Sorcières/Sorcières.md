@@ -1,0 +1,1 @@
+A l'extrême Sud-Est de l'ancienne Zone d'exclusion se retrouve un tout petit village du nom de Emsala. Personne ne fait trop attention à ce petit bout de terre
