@@ -12,5 +12,5 @@ Mind Over Matter est pensé comme un logiciel **open-source**, n'importe qui peu
 
 Si vous êtes à l'aise avec l'utilisation de GitHub, vous pouvez consulter le repo de la branche principale et proposer des améliorations ou forker le projet comme vous le ferriez avec n'importe quel logiciel libre : TODO(lien github).
 
-Si vous ne comprenez aucun mot de la phrase ci-dessus, le plus simple est de soumettre vos propositions par mail à TODO(mail). Pour consulter et éditer du contenu destiné à Mind Over Matter, nous vous recommandons [[Utiliser Obsidian|d'utiliser Obsidian]].
+Si vous ne comprenez aucun mot de la phrase ci-dessus, le plus simple est de soumettre vos propositions par mail à lorenzojacques@hotmail.fr. Pour consulter et éditer du contenu destiné à Mind Over Matter, nous vous recommandons [[Utiliser Obsidian|d'utiliser Obsidian]].
 

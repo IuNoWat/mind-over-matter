@@ -4,15 +4,14 @@ licence: CC BY-NC-SA
 ---
 # Intention
 
-Le Noyau HARSH est une variation du Noyau [[Noyaux/BASE/index|BASE]], conçu pour être plus réaliste, plus violent et plus intense. Il comprends un système de confrontations et d'épreuves basées sur un D10, et des nouvelles règles d'affrontement et de blessures L'utilisation du D10 implique des bonus beaucoup plus impactant, et de plus grandes disparités dans les capacités des Personnages.
+Le Noyau HARSH est une variation du [[Noyaux/BASE/index|Noyau BASE]] conçue pour être particulièrement réaliste, violente et intense. Il comprends un système de confrontations et d'épreuves basées sur un D10, et des nouvelles règles d'affrontement et de blessures L'utilisation du D10 implique des bonus plus impactant et de plus grandes différences de niveau entre les Personnages.
 
 Le but du Noyau HARSH est de mettre en scène des situations de tensions intenses et réalistes où tout peux basculer en un seul instant, et où la moindre erreur risque d'être fatale. Chaque combat y est un danger mortel, et doit faire hésiter les Joueuses en conséquence.
 
-# Règles de Résolution
+# :LiDices: Règles de Résolution
 
 HARSH se joue principalement avec des D10, qui sont utilisés par les Joueuses et la Conteuse dans le cadre d'**Epreuves** et de **Confrontations**.
-## Epreuves
-
+## :LiDice1: Epreuves
 Quand une Joueuse souhaite accomplir une action qui n'est pas triviale, la Conteuse peut lui demander une **Epreuve**. La Joueuse lance alors un D10, ajoute des éventuels bonus ou malus, et cherche à faire un score supérieur à un seuil décidé par la Conteuse. On appelle ce seuil le **Degré de Difficulté (ou DD)** de l'**Epreuve**. Si elle fait un score supérieur ou égal, elle réussi, si elle fait un score inférieur, elle échoue. La Conteuse décrit alors la scène correspondante.
 
 A titre indicatif :
@@ -25,25 +24,24 @@ A titre indicatif :
 |   Difficile    |          7          |
 | Très Difficile |          9          |
 |   Impossible   |         11          |
-## Confrontations
+## :LiDice2: Confrontations
 Quand une Joueuse interagi avec un être doué de volonté, la résolution d'une action passe par une **Confrontation**. La Joueuse lance un D10 et ajoute ses éventuels bonus ou malus, et la Conteuse fait de même, pour représenter l'action ou l'opposition de l'adversaire. Celle qui a fait le plus haut score emporte la **Confrontation**, et la Conteuse décrit la scène qui en découle. En cas d'égalité, c'est celle qui a initié la confrontation qui gagne.
-## Avantage & Désavantage
+## :LiDice3: Avantage & Désavantage
 
 Il peux arriver qu'une Joueuse ou une Conteuse fasse un jet de dès alors que son Personnage est dans une situation particulièrement favorable. Pour représenter cela par les règle, la Conteuse peut annoncer que le jet seras fait **avec Avantage**. Un jet avec Avantage consiste à lancer deux D10 au lieux d'un seul, et de garder le score le plus haut.
 
 A l'inverse, il arrive qu'un Personnage aie à faire un jet de dès alors qu'il est dans une position difficile. La Conteuse peux alors annoncer que le jet seras fait **avec Désavantage**. Un jet avec Désavantage consiste à lancer deux D10 au lieux d'un seul, et de garder le score le plus bas
 
 L'attribution d'un Avantage ou d'un Désavantage n'est jamais automatique, elle dépend toujours du contexte d'un jet de dès. Les Joueuses peuvent le demander si elles l'estiment justifié, mais c'est la Conteuse qui décide de le donner ou pas.
-
-## Critiques
+## :LiDice4: Critiques
 Quand une Joueuse lance un D10 et fait un 10, c'est une **Réussite Critique**. Quel que soit le Degré de Difficulté (dans le cas d'une Epreuve) ou la valeur de l'adversaire (dans le cas d'une Confrontation), **l'action est réussie**.
 Quand une Joueuse lance un D10 et fait un 1, c'est un **Echec Critique**. Quel que soit le Degré de Difficulté (dans le cas d'une Epreuve) ou la valeur de l'adversaire (dans le cas d'une Confrontation), **l'action est échouée**.
 
 Un Critique est également l'occasion d'un changement de narration. **C'est à la Joueuse ayant fait le critique de décrire la scène** et de détailler en quoi sa réussite est particulièrement exceptionnelle, ou son échec particulièrement cuisant. Elle a à cette occasion le droit de demander des bonus ou de s'imposer des malus si la situation le justifie (Avantage ou Désavantages, dégâts supplémentaires ou blessures graves, gain d'objet ou d'expérience, etc).
 
-# Personnages 
+# :LiUser: Personnages 
 Les Personnages joués par les Joueuses sont définis par un ensemble de scores qui influencent leurs jets. Ces score sont leurs Caractéristiques, leurs Compétences et leurs Capacités.
-## Caractéristiques
+## :LiIdCard: Caractéristiques
 Il y a d'abord **5 Caractéristiques qui représentent les capacités physiques et mentales du Personnage :**
 - **L'Adresse (AD)** représente la maîtrise de son corps et de ses mains, la capacité à être précis ou rapide.
 - **Le Charisme (CHA)** représente la beauté physique et le magnétisme, la capacité à séduire, à attirer l'attention ou à convaincre.
@@ -52,7 +50,7 @@ Il y a d'abord **5 Caractéristiques qui représentent les capacités physiques 
 - **L'Instinct (INS)** représente l'accord entre le corps et l'esprit, la capacité à percevoir, à ressentir ainsi que l'intuition.
 
 Les scores de Caractéristique varient entre des valeurs positives et négatives, en général entre +3 et -3, pour représenter les forces et les faiblesses d'un personnage. Lors d'un Jet de Dès, la Conteuse annonce la caractéristique correspondante à l'action à réaliser, et la joueuse doit ajouter ou soustraire la valeur de son Personnage au score de son D10.
-## Compétences
+## :LiBookCheck: Compétences
 Il y a ensuite **des Compétences, qui représentent ce que le Personnage a appris.**
 ### Compétences Innées
 Il y a **8 Compétences Innées, que tout le monde possède à des degrés divers, qui représentent les talents et les défauts du Personnage** : 
@@ -77,7 +75,7 @@ Les scores de ces Compétences varient entre des valeurs positives et négatives
 >**Pour résumer**
 >Lorsque la Conteuse demande un jet de Dès, que ce soit durant une **Epreuve** ou une **Confrontation**, elle annonce également une Caractéristique et une Compétence associé. Ces deux valeurs viendront augmenter ou diminuer le score du D10 pour former le Résultat du jet de Dès.
 
-## Capacités
+## :LiActivity: Capacités
 
 En plus des Caractéristiques et des Compétences qui les définissent, les Personnages doivent posséder des **Capacités**, des aptitudes actives ou passives qui correspondent à leur vécu. Dans la plupart des règles de jeu de rôle, on trouve un système de classe ou de métier qui définir ces aptitudes supplémentaires. 
 
@@ -89,7 +87,7 @@ Pour autant, les Personnages doivent posséder des pouvoirs, des aptitudes ou de
 
 
 
-# Combat
+# :LiSwords: Combat
 
 ## Point de Vie
 
@@ -106,7 +104,7 @@ Chaque Personnage a un total de 7 Points de Vie, et en gagne ou en perd en fonct
 Le passage d'un Personnage Joueur à 0 points de vie force un Lancer d'Initiative pour toutes les personnes présentes. Le Personnage à 0 points de vie ne peux pas agir, et au début de chacun de ses tours de jeu. la Conteuse joue à Pile ou Face. Si elle tombe sur Pile, le Personnage meurt.
 
 L'initiative se poursuit jusqu'à ce que le Personnage soit stabilisé ou meure. 
-## Combat
+## Déroulement
 
 >Les combats se font au tour par tour de 6 secondes, à partir d'un Lancer d'Initiative.
 

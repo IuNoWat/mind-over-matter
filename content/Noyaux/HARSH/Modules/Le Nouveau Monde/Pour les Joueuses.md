@@ -8,7 +8,7 @@ Le Nouveau Monde est un univers de médiéval-fantasy classique, assez flou, qui
 
 Des espaces immenses, libres de toute civilisation, sont à la portée de ceux qui seront plus forts, plus rapides ou plus malins que les autres. Dans toutes les terres civilisées, on en parle comme un Eldorado, une terre d'opportunités, de richesse et de liberté. Les aventuriers et les colons affluent chaque jour plus nombreux, et peu d'entre eux se rendent compte à quel point ces terres sauvages sont dangereuses.
 
-En effet, ce nouveau monde est étrange, profondément marqué par des siècles de combats, de magies étranges et de rituels obscurs. La faune, la flore, et les éléments eux-mêmes s'y comportent de façon imprévisible, faisant de la vie, et même de la survie, un combat de tous les instants. 
+Ce nouveau monde est étrange, profondément marqué par des siècles de combats, de magies étranges et de rituels obscurs. La faune, la flore et les éléments eux-mêmes s'y comportent de façon imprévisible, faisant de la vie, et même de la survie, un combat de tous les instants. 
 
 Dans ces terres hostiles, il n'y a de place ni pour la bêtise, ni pour la pitié, et les nouveaux venus ont le choix entre s'endurcir vite ou finir six pieds sous terre. Seuls restent donc les forts, les rapides et les roublards, rassemblés dans des villes, des camps et des abris qui sont parfois tout aussi dangereux que les étendues sauvages. Dans le Nouveau Monde, il n'existe d'autre lois que celle du plus fort, et d'autres dieux que la Mort et le Hasard.
 
