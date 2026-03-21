@@ -7,7 +7,7 @@ Conséquence inévitable de cette formidable diversité, il existe une infinité
 
 Sur ce site se trouvent avant tout des méthodes et des conseils pour que les [[Joueuse|Conteuses]], mais aussi les [[Joueuse|Joueuses]] puissent écrire **leurs** règles et **leurs** univers, personnalisés à leur propre expérience du Jeu de Rôle. Il est possible de commencer de zéro ou de s'appuyer sur les créations d'autres personnes, de les utiliser tel quel ou de les modifier à l'envie. Ce travail peut ensuite être publié, pour à son tour servir de base à d'autres règles et d'autres univers. **Mind Over Matter est un système open-source de Jeu de Rôle.**
 
-Dans la mesure où le but est d'accueillir une grande diversité de visions dans un espace commun, n'importe quel système et n'importe quelle intention est légitime à s'intégrer à Mind Over Matter. Pour autant, il peut être utile de décrire les principes qui motivent ce projet. Libre à chaque contributeur de les interpréter comme il l'entend, et de défendre sa vision en proposant ses Noyaux et ses Modules.
+Dans la mesure où le but est d'accueillir une grande diversité de visions dans un espace commun, **n'importe quel système et n'importe quelle intention est légitime à s'intégrer à Mind Over Matter**. Pour autant, il peut être utile de décrire les principes qui motivent ce projet. Libre à chaque contributeur de les interpréter comme il l'entend, et de défendre sa vision en proposant ses Noyaux et ses Modules.
 ## Le Jeu et le Rôle
 
 Mind Over Matter part du principe que le Jeu de Rôle est un art littéraire, un format de narration partagé utilisé pour construire une histoire en semi-improvisation. Pour se faire, deux temps fondamentaux se côtoient et se répondent : le Rôle et le Jeu (en anglais RolePlay et GamePlay.
@@ -22,10 +22,10 @@ C'est par le dialogue entre le Rôle et le Jeu que notre art se déploie, et c'e
 
 ## L'Art du Jeu de Rôle
 
-Certains lecteurs auront peut-être tiqué e voyant le Jeu de Rôle être défini comme un art. En effet, certains catégorisent le Jeu de Rôle comme un divertissement ou un passe-temps, réduisant l'importance de ce qui se joue à nos tables. En opposition à cette vision réductrice, nous faisons le choix de voir le Jeu de Rôle comme un Art, c'est à dire un moyen esthétique de transmettre des émotions et/ou des messages.
+Certains lecteurs auront peut-être tiqué en voyant le Jeu de Rôle être défini comme un art. En effet, certains catégorisent le Jeu de Rôle comme un divertissement ou un passe-temps, réduisant l'importance de ce qui se joue à nos tables. En opposition, nous faisons le choix de voir le Jeu de Rôle comme un Art, c'est à dire un moyen esthétique de transmettre des émotions et/ou des messages.
 
->[!quote]  
->Dans la mesure où nos parties on un impact sur nos vies et nos visions du monde, dans la mesure où nous vivons intensément les aventures de nos Personnages, le Jeu de Rôle est un art.
+>[!important]  
+>Dans la mesure où nos parties on un impact sur nos vies et nos visions du monde, dans la mesure où nous vivons intensément les aventures de nos Personnages, **le Jeu de Rôle est un Art**.
 
 Concrètement, cela ne change rien dans la façon dont nous écrivons et jouons nos histoires. Mais cela fais peser des responsabilités sur les épaules des Joueuses et des Conteuses.
 
@@ -45,12 +45,17 @@ Dans Mind Over Matter, les Joueuses ont accès aux mêmes documents de règle qu
 Il faut concevoir les Règles du Jeu comme un corpus qui change et évolue au fil du temps, pour correspondre aux besoins de l'histoire et aux demandes des Joueuses ou de la Conteuse.
 
 > [!warning] Un grand pouvoir implique de grande responsabilités
-> Dans Mind Over Matter, les Joueuses ont accès aux mêmes informations que la Conteuse. Pour autant, la Conteuse conserve son rôle de Maître de Cérémonie, et c'est elle qui doit avoir le dernier mot sur comment les règles doivent être appliquées. Charge aux Joueuses de faire la part des choses entre les règles qui leur plaisent et les règles qui arrangent leur Personnage. 
+> Dans Mind Over Matter, les Joueuses ont accès aux mêmes informations que la Conteuse. Pour autant, la Conteuse conserve son rôle de Maîtresse de Cérémonie, et c'est elle qui doit avoir le dernier mot sur comment les règles doivent être appliquées. Charge aux Joueuses de faire la part des choses entre les règles qui leur plaisent et les règles qui arrangent leur Personnage. 
 ## Jouer en Sécurité
 
-Consciemment ou non, nos façons de jouer amène des émotions et des thématiques réelles à nos tables. Celles-ci sont plus que bienvenues, mais elles ne doivent pas devenir un frein à la création ou au plaisir de jeu des Joueuses ou de la Conteuse. Les émotions et thématiques vécues doivent donc l'être avec le Consentement de toutes les personnes présentes, établi et renouvelé grâce à des outils de sécurité émotionnelle.
+Consciemment ou non, nos façons de jouer amènent des émotions et des thématiques réelles à nos tables. Celles-ci sont plus que bienvenues, mais elles ne doivent pas devenir un frein à la création ou au plaisir des Joueuses ou de la Conteuse. Les émotions et thématiques vécues doivent donc l'être avec le Consentement de toutes les personnes présentes, établi et renouvelé grâce à des outils de sécurité émotionnelle.
+
+>[!important]
+>Ces outils peuvent être proposé et utilisés par l'ensemble de la table, mais c'est de la responsabiité de la Conteuse de s'assurer que toutes les personnes à sa table sont en sécurité émotionnelle.
+>A terme, Mind Over Matter proposera une section consacrés à ces outils. Si la question vous interesse, n'hésitez pas à [[Contribuer]].
 
 ## Centraliser et diffuser un travail collectif
+A venir
 
 
 

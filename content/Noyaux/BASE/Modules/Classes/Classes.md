@@ -10,6 +10,7 @@ Coeur : Passes d'armes, techniques de combat
 Coeur : Combines, listes de "techniques" pour éviter les problèmes
 #### AD-INS - Ranger
 Coeur : Carnet, liste de particularités de territoires à utiliser à son avantage
+#### AD-INS - Moine
 #### CHA-FO - Champion
 #### CHA-FO - Paladin
 Cœur : Prodiges d'un dieu ou d'un patron
