@@ -43,5 +43,4 @@ Mind Over Matter est un ensemble de systèmes de jeux de rôles qui sont **ouver
 </div>
 
 
-
 **Si vous êtes à la recherche d'un système de jeu tout prêt**, nous vous conseillons le Noyau [[Noyaux/BASE/index|BASE]], qui est conçu spécifiquement pour une initiation aux principes de Mind Over Matter.
