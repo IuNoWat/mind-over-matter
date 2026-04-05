@@ -51,14 +51,16 @@ Bien que disponible, nous vous invitons à limiter l'usage des tableaux aux vale
 
 # 🔘 Créer un boutton
 ## Bouton en pleine page
+```
 <a href="" class="grid-item">
 <div class="icon"></div>
 <div class="title">Mind Over Matter</div>
 <div class="description">Retourner à l'accueil</div>
 </a>
+```
 
 ## Grille de Bouton
-
+```
 <div class="grid-container">
 
 <a href="Noyaux" class="grid-item">
@@ -80,3 +82,4 @@ Bien que disponible, nous vous invitons à limiter l'usage des tableaux aux vale
 </a>
 
 </div>
+```

@@ -1,0 +1,15 @@
+
+ Quartz v4.5.2  
+
+Cleaned output directory `public` in 21ms
+Found 69 input files from `content` in 23ms
+Parsing input files using 1 threads
+
+Warning: content/Mind Over Matter/Noyaux/HARSH/index.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/Noyaux/Sans titre/index.md isn't yet tracked by git, dates will be inaccurate
+Parsed 69 Markdown files in 1s
+Filtered out 0 files in 204μs
+Emitting files
+Emitted 201 files to `public` in 7s
+Done processing 69 files in 8s

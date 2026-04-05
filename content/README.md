@@ -1,6 +1,4 @@
 
-
-
 # ROADMAP
 ## Pour Présenter aux Copains
 - [x] Terminer une première version de la Philosophie
