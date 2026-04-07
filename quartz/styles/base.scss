@@ -29,7 +29,7 @@ body {
   border-radius: 5px;
 }
 ::selection {
-  background: color-mix(in srgb, var(--tertiary) 60%, rgba(255, 255, 255, 0));
+  background: color-mix(in srgb, var(--tertiary) 10%, rgba(255, 255, 255, 0));
   color: var(--darkgray);
 }
 
@@ -85,7 +85,7 @@ a {
   font-weight: $semiBoldWeight;
   text-decoration: none;
   transition: color 0.2s ease;
-  color: var(--secondary);
+  color: #a2bdd0; //USER : I prefer a lighter and more visible blue on the links
 
   &:hover {
     color: var(--tertiary);

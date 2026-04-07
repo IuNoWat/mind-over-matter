@@ -1,27 +1,23 @@
 ---
-title: Noyau BASE
-licence: CC BY-NC-SA
+title: Noyau BABEL
 ---
 # Intention
-Comme son nom l'indique, le noyau BASE est conçu comme un système "par défaut" qu'il est possible d'adapter à n'importe quel contexte de jeu. Il offre des règles simples à comprendre, adaptables à tous les univers, toutes les ambiances, et tous les formats.
 
-Vous souhaitez réaliser une initiation avec des novices ? BASE offre un corpus de règles simples à expliquer et à comprendre, contenues dans ce seul document.
+En référence à [[https://fr.wikipedia.org/wiki/La_Biblioth%C3%A8que_de_Babel|la nouvelle de Jorges Luis Borges]], le noyau Babel est conçu comme une base neutre destinée à contenir toutes les histoires possibles. Ses règles et son intention n'amènent aucun parti pris artistique autre que celui d'être accessible et adaptable aux besoins de la [[Joueuse|Conteuse]].
 
-Vous souhaitez réaliser une campagne suivie aux enjeux épiques ? BASE offre un système de progression lent qui tiendra dans le temps, de grandes possibilités de personnalisation et de nombreux modules pour assurer un gameplay complexe.
+Vous souhaitez réaliser une initiation avec des novices ? **Babel offre un corpus de règles simples à expliquer et à comprendre**.
 
-Vous souhaitez quitter les rivages habituels du Jeu de Rôle ? BASE n'inclue pas de système de combat, et ses règles sont pensées pour s'adapter à toutes les situations, et à tous les types de narration.
+Vous souhaitez réaliser une campagne immense aux enjeux épiques ? **Babel offre un système de progression qui tiendras dans le temps**.
 
-Vous et vos Joueuses avez l'habitude d'autres systèmes ? BASE est volontairement conçue proche du système de Donjon & Dragons, pour ne pas perdre les nouvelles venues.
+Vous souhaitez quitter les rivages habituels du Jeu de Rôle ? **Les règles ne Babel ne sont liées à aucun lore, ni aucun parti pris artistique, ses règles sont pensées pour s'adapter à toutes les situations et à tous les types de narration**.
 
-Vous souhaitez participer à l'aspect Open Source de Mind Over Matter ? BASE possède un large choix de Modules variés, dans lesquels vous pourrez piocher une inspiration dans la forme et dans le fond.
+Vous et vos Joueuses avez l'habitude d'autres systèmes ? **Babel est volontairement similaire au système de Donjon & Dragons**.
 
-## Les règles au service de la narration, et pas l'inverse
-En jeu de rôle, ce sont les règles qui doivent servir l'histoire, et non pas l'inverse . Si une action fais sens d'un point de vue de l'histoire et du contexte, mais qu'elle n'est pas permise par les règles, celles-ci deviennent un poids dont il faut s'affranchir. Mais comme chaque histoire, chaque partie de jeu de rôle, chaque MJ est unique, il n'est pas possible pour un set de règles unique de répondre à des besoins aussi divers.
+Vous souhaitez ajouter ou supprimer des règles pour personnaliser votre expérience ? **Babel possède un large choix de Modules variés, dans lesquels vous pourrez piocher une inspiration dans la forme et dans le fond**.
 
-Partant de ce constat, Mind Over Matter, ne propose pas un système de règle, mais un système de création de règle. Mind Over Matter est un méta-système de Jeu de Rôle, un outil qui offre des règles de base, et des guides qui vous permettent d'écrire des règles qui correspondent à votre histoire.
-# Règles de Résolution
+# Principe Général
 
-Mind Over Matter se joue principalement avec des D20, qui sont utilisés par les Joueuses et la Conteuse dans le cadre d'**Epreuves** et de **Confrontations**.
+Babel se joue principalement avec des D20, qui sont utilisés par [[Joueuse|les Joueuses et la Conteuse]] dans le cadre d'**Epreuves** et de **Confrontations**.
 ## Epreuves
 
 Quand une Joueuse souhaite accomplir une action qui n'est pas triviale, la Conteuse peut lui demander une **Epreuve**. La Joueuse lance alors un D20, ajoute des éventuels bonus ou malus, et cherche à faire un score supérieur à un seuil décidé par la Conteuse. On appelle ce seuil le **Degré de Difficulté (ou DD)** de l'**Epreuve**. Si elle fait un score supérieur ou égal, elle réussi, si elle fait un score inférieur, elle échoue. La Conteuse décrit alors la scène correspondante.
@@ -44,7 +40,7 @@ Il peux arriver qu'une Joueuse ou une Conteuse fasse un jet de dès alors que so
 
 A l'inverse, il arrive qu'un Personnage aie à faire un jet de dès alors qu'il est dans une position difficile. La Conteuse peux alors annoncer que le jet seras fait **avec Désavantage**. Un jet avec Désavantage consiste à lancer deux D20 au lieux d'un seul, et de garder le score le plus bas
 
-L'attribution d'un Avantage ou d'un Désavantage n'est jamais automatique, elle dépend toujours du contexte d'un jet de dès. Les Joueuses peuvent le demander si elles l'estiment justifié, mais c'est la Conteuse qui décide de le donner ou pas.
+**L'attribution d'un Avantage ou d'un Désavantage n'est jamais automatique**, elle dépend toujours du contexte d'un jet de dès. Les Joueuses peuvent le demander si elles l'estiment justifié, mais c'est la Conteuse qui décide de le donner ou pas.
 # Personnages 
 Les Personnages joués par les Joueuses sont définis par un ensemble de scores qui influencent leurs jets. Ces score sont leurs Caractéristiques, leurs Compétences et leurs Capacités.
 ## Caractéristiques
@@ -85,9 +81,9 @@ Les scores de ces Compétences varient entre des valeurs positives et négatives
 
 En plus des Caractéristiques et des Compétences qui les définissent, les Personnages doivent posséder des **Capacités**, des aptitudes actives ou passives qui correspondent à leur vécu. Dans la plupart des règles de jeu de rôle, on trouve un système de classe ou de métier qui définit ces aptitudes supplémentaires et leur évolution dans le temps.
 
-**Dans BASE, il n'y a pas de systèmes de classe**.
+**Dans Babel, il n'y a pas de systèmes de classe**.
 
-Pour autant, les Personnages doivent posséder des pouvoirs, des aptitudes ou des talents spéciaux, relatifs à leur passé, leur entrainement ou leurs aspirations. **Dans Mind Over Matter, ces capacités doivent forcément être personnalisées, et écrites par la Joueuse elle-même, avec l'aide et sous le contrôle de la Conteuse.** Des exemples sont bien évidemment disponibles, mais les Joueuses et la Conteuse sont encouragées à écrire leurs propres règles, en fonction de ce qu'elles souhaitent raconter.
+Pour autant, les Personnages doivent posséder des pouvoirs, des aptitudes ou des talents spéciaux, relatifs à leur passé, leur entrainement ou leurs aspirations. **Dans Babel, ces capacités doivent forcément être personnalisées, et écrites par la Joueuse elle-même, avec l'aide et sous le contrôle de la Conteuse.** Des exemples sont bien évidemment disponibles, mais les Joueuses et la Conteuse sont encouragées à écrire leurs propres règles, en fonction de ce qu'elles souhaitent raconter.
 
 ## Progresser
 Au fur et à mesure de leurs aventures, les Personnages seront amenés à progresser. Les victoires, les réussites et les bonnes idées, mais aussi les échecs critiques, les défaites et les ratés des Joueuses seront récompensés par des points d’expérience. Ceux-ci peuvent être dépensés pour améliorer leurs Caractéristiques, leurs Compétences et leurs Capacités.
@@ -165,8 +161,4 @@ A moins que vous n'ayez une idée très précise en tête (ce qui est très bien
 La description finale de votre Personnage comprends deux choses :
 - Ses Statistiques, l'ensemble de ses Caractéristiques, Compétences, Capacités, etc, qui décrivent votre Personnage du point de vue des règles du jeu
 - Son Historique, un paragraphe de la longueur de votre choix, écrit à la première personne, dans lequel votre Personnage se décrit, raconte son passé et parle de ses objectifs futurs.
-
-
-
-
 

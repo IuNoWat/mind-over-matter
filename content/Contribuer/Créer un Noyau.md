@@ -1,9 +1,9 @@
 >[!tip]
 >Les normes et les conseils que vous trouverez ici découlent de la [[Philosophie|Philosophie de Mind Over Matter]]. N'hésitez pas à la consulter avant de poursuivre.
 
-Comme son nom l'indique, le Noyau est au coeur du système de règle. Il contient au moins 3 parties obligatoires :
+Comme son nom l'indique, le Noyau est au cœur du système de règle. Il contient au moins 3 parties obligatoires :
 - **L'Intention**, dans laquelle l'auteur décrit les raisons qui l'ont poussé à concevoir ce Noyau, et le type d'expérience qu'il vise.
-- **Le Système de Résolution d'Action**, dans lequel l'auteur décrit comment les dès valident ou invalident la narration proposée par les Joueuses et la Conteuse. Il explique également l'esprit de ces règles, et comment elles doivent amener le type d'expérience souhaitée dans l'Intention.
+- **Les Règles de Jeu**, dans lesquels l'auteur décrit comment les dès valident ou invalident la narration proposée par les Joueuses et la Conteuse. Il explique également l'esprit de ces règles, et comment elles doivent amener le type d'expérience souhaitée dans l'Intention.
 - **La Création de Personnage**, dans laquelle l'auteur décrit décrit la procédure de création des Personnages des Joueuses, et en quoi ces Personnages vont influer sur les modalités de résolution de l'action.
 
 >[!important]
@@ -15,6 +15,4 @@ La séparation entre ce qui tient du Noyau et ce qui tient d'un [[Créer un Modu
 > Si vous souhaitez un exemple de ce à quoi doit ressembler un Noyau, consultez le [[Noyaux/BASE/index|Noyau BASE]] qui est conçu pour s'initier aux grands principes de Mind Over Matter.
 
 Une fois votre Noyau écrit et testé, vous êtes encouragé à le [[Contribuer|partager à la communauté]].
-
-TODO : intégrer des conseils de FALC
 

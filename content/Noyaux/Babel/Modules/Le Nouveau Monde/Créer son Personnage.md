@@ -54,3 +54,7 @@ Enfin, vous avez sur vous un objet rare et précieux, qui pourrait vous sauver l
 # Pour finir
 
 A moins que vous n'ayez une idée très précise en tête (ce qui est très bien aussi), il est probable que ayez du mal à faire d'un seul coup tous les choix nécessaires à la création de votre Personnage. **Cette création doit se faire avec votre Conteuse, n'hésitez pas à lui poser toutes les questions qui vous viennent en tête au fur et à mesure.**
+
+La description finale de votre Personnage comprends deux choses :
+- Ses Statistiques, l'ensemble de ses Caractéristiques, Compétences, Capacités, etc, qui décrivent votre Personnage du point de vue des règles du jeu
+- Son Historique, un paragraphe de la longueur de votre choix, écrit à la première personne, dans lequel votre Personnage se décrit, raconte son passé et parle de ses objectifs futurs.

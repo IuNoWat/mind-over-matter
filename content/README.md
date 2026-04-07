@@ -6,6 +6,7 @@
 - [x] Résoudre le problème index
 - [x] Prendre une décision pour le style
 - [ ] Penser une page d'accueil de Noyau plus accueillante
+- [ ] Mettre à jour le noyau HARSH
 ## Pour Jouer à Nouveau Monde
 - [x] Faire une liste de capacités
 - [x] Relire HARSH

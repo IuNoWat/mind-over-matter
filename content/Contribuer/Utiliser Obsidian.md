@@ -7,11 +7,3 @@ Pour éditer Mind Over Matter, nous recommandons fortement l'utilisation d'Obsid
 
 >[!warning] Attention
 >Le projet Mind Over Matter n'est cependant pas dépendant d'Obsidian, qui reste un logiciel propriétaire susceptible de changer. Il est tout à fait possible d'utiliser d'autres outils.
-
-
-pluggins :
-- Excalidraw
-- Iconize (icones de base)
-publication : Quartz + 
-
-theme supplémentaire

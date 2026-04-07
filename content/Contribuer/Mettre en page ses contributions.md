@@ -1,6 +1,6 @@
 Mind Over Matter est conçu pour être aussi léger, accessible et modulaire que possible. Il utilise pour cela le format [Markdown](https://fr.wikipedia.org/wiki/Markdown), qui offre quelques options de mise en page.
 
-En plus des options de base du langage, Mind Over Matter a été conçu grâce à l'éditeur Obsidian, qui ajoute quelques fonctionnalités pratiques.
+En plus des options de base du langage, Mind Over Matter a été conçu grâce à l'éditeur [[Utiliser Obsidian|Obsidian]], qui ajoute quelques fonctionnalités pratiques.
 
 Retrouvez ici l'ensemble des éléments de mise en page standards que vous pourrez retrouver sur ce site.
 
@@ -58,6 +58,12 @@ Bien que disponible, nous vous invitons à limiter l'usage des tableaux aux vale
 <div class="description">Retourner à l'accueil</div>
 </a>
 ```
+### Exemple
+<a href="" class="grid-item">
+<div class="icon"></div>
+<div class="title">Mind Over Matter</div>
+<div class="description">Retourner à l'accueil</div>
+</a>
 
 ## Grille de Bouton
 ```
@@ -83,3 +89,25 @@ Bien que disponible, nous vous invitons à limiter l'usage des tableaux aux vale
 
 </div>
 ```
+### Exemple
+<div class="grid-container">
+
+<a href="Noyaux" class="grid-item">
+<div class="icon">📖</div>
+<div class="title">Bouton 1</div>
+<div class="description">Tous les Noyaux disponibles</div>
+</a>
+
+<a href="Noyaux" class="grid-item">
+<div class="icon">📖</div>
+<div class="title">Bouton 2</div>
+<div class="description">Tous les Noyaux disponibles</div>
+</a>
+
+<a href="Noyaux" class="grid-item">
+<div class="icon">📖</div>
+<div class="title">Bouton 3</div>
+<div class="description">Tous les Noyaux disponibles</div>
+</a>
+
+</div>

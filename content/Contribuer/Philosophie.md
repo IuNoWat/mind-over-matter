@@ -29,11 +29,11 @@ Certains lecteurs auront peut-être tiqué en voyant le Jeu de Rôle être défi
 
 Concrètement, cela ne change rien dans la façon dont nous écrivons et jouons nos histoires. Mais cela fais peser des responsabilités sur les épaules des Joueuses et des Conteuses.
 
+Les Joueuses et la Conteuse doivent êtres **respectueuses** envers les émotions et les propositions des autres, elles doivent travailler leur écoute, leur empathie et la capacité à faire des compromis.
+
+Les Joueuses et la Conteuse doivent être **intenses**, s'impliquer à fond dans les aventures et les émotions de leurs Personnages, sans concessions et sans distractions.
+
 Les Joueuses et la Conteuse se doivent d'être **sincères**, chacune doit apporter ce qui lui semble le plus juste, le plus pertinent, et le plus personnel, pour que l'Histoire formée soit une production collective.
-
-Les Joueuses et la Conteuse doivent faire preuve de **respect** pour les émotions et les propositions des autres, elles doivent travailler leur écoute, leur empathie et la capacité à faire des compromis.
-
-Les Joueuses et la Conteuse doivent être **intenses**, s'impliquer à fond dans les aventures et les émotions de leurs Personnages, sans concession et sans distractions.
 
 C'est seulement quand ces responsabilités sont assumées par tous que le Jeu de Rôle déploie tout son potentiel.
 ## Les Règles et les Joueuses
@@ -48,7 +48,7 @@ Il faut concevoir les Règles du Jeu comme un corpus qui change et évolue au fi
 > Dans Mind Over Matter, les Joueuses ont accès aux mêmes informations que la Conteuse. Pour autant, la Conteuse conserve son rôle de Maîtresse de Cérémonie, et c'est elle qui doit avoir le dernier mot sur comment les règles doivent être appliquées. Charge aux Joueuses de faire la part des choses entre les règles qui leur plaisent et les règles qui arrangent leur Personnage. 
 ## Jouer en Sécurité
 
-Consciemment ou non, nos façons de jouer amènent des émotions et des thématiques réelles à nos tables. Celles-ci sont plus que bienvenues, mais elles ne doivent pas devenir un frein à la création ou au plaisir des Joueuses ou de la Conteuse. Les émotions et thématiques vécues doivent donc l'être avec le Consentement de toutes les personnes présentes, établi et renouvelé grâce à des outils de sécurité émotionnelle.
+Consciemment ou non, nos façons de jouer amènent des émotions et des thématiques réelles à nos tables. Celles-ci sont plus que bienvenues, mais elles ne doivent pas devenir un frein à la création ou au plaisir des Joueuses ou de la Conteuse. Les émotions et thématiques vécues doivent donc l'être avec le **Consentement** de toutes les personnes présentes, établi et renouvelé grâce à des outils de sécurité émotionnelle.
 
 >[!important]
 >Ces outils peuvent être proposé et utilisés par l'ensemble de la table, mais c'est de la responsabiité de la Conteuse de s'assurer que toutes les personnes à sa table sont en sécurité émotionnelle.
