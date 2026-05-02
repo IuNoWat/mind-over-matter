@@ -1,30 +1,30 @@
 # Principe Général
-HARSH se joue principalement avec des D10, qui sont utilisés par les Joueuses et la Conteuse dans le cadre d'**Epreuves** et de **Confrontations**.
+HARSH se joue principalement avec des D6, qui sont utilisés par les Joueuses et la Conteuse dans le cadre d'**Epreuves** et de **Confrontations**.
 ## Épreuves
-Quand une Joueuse souhaite accomplir une action qui n'est pas triviale, la Conteuse peut lui demander une **Épreuve**. La Joueuse lance alors un D10, ajoute des éventuels bonus ou malus, et cherche à faire un score supérieur à un seuil décidé par la Conteuse. On appelle ce seuil le **Degré de Difficulté (ou DD)** de l'**Epreuve**. Si elle fait un score supérieur ou égal, elle réussi, si elle fait un score inférieur, elle échoue. La Conteuse décrit alors la scène correspondante.
+Quand une Joueuse souhaite accomplir une action qui n'est pas triviale, la Conteuse peut lui demander une **Épreuve**. La Joueuse lance alors deux D6, ajoute des éventuels bonus ou malus, et cherche à faire un score supérieur à un seuil décidé par la Conteuse. On appelle ce seuil le **Degré de Difficulté (ou DD)** de l'**Epreuve**. Si elle fait un score supérieur ou égal, elle réussi, si elle fait un score inférieur, elle échoue. La Conteuse décrit alors la scène correspondante.
 
 A titre indicatif :
 
 |     Tâche      | Degré de Difficulté |
 | :------------: | :-----------------: |
-|  Très Facile   |          0          |
-|     Facile     |          3          |
-|    Moyenne     |          5          |
-|   Difficile    |          7          |
-| Très Difficile |          9          |
-|   Impossible   |         11          |
+|  Très Facile   |          3          |
+|     Facile     |          5          |
+|    Moyenne     |          7          |
+|   Difficile    |          9          |
+| Très Difficile |         11          |
+|   Impossible   |         13          |
 ## Confrontations
-Quand une Joueuse interagi avec un être doué de volonté, la résolution d'une action passe par une **Confrontation**. La Joueuse lance un D10 et ajoute ses éventuels bonus ou malus, et la Conteuse fait de même, pour représenter l'action ou l'opposition de l'adversaire. Celle qui a fait le plus haut score emporte la **Confrontation**, et la Conteuse décrit la scène qui en découle. En cas d'égalité, c'est celle qui a initié la confrontation qui gagne.
+Quand une Joueuse interagi avec un être doué de volonté, la résolution d'une action passe par une **Confrontation**. La Joueuse lance deux D6 et ajoute ses éventuels bonus ou malus, et la Conteuse fait de même, pour représenter l'action ou l'opposition de l'adversaire. Celle qui a fait le plus haut score emporte la **Confrontation**, et la Conteuse décrit la scène qui en découle. En cas d'égalité, c'est celle qui a initié la confrontation qui gagne.
 ## Avantage & Désavantage
 
-Il peux arriver qu'une Joueuse ou une Conteuse fasse un jet de dès alors que son Personnage est dans une situation particulièrement favorable. Pour représenter cela par les règle, la Conteuse peut annoncer que le jet seras fait **avec Avantage**. Un jet avec Avantage consiste à lancer deux D10 au lieux d'un seul, et de garder le score le plus haut.
+Il peux arriver qu'une Joueuse ou une Conteuse fasse un jet de dès alors que son Personnage est dans une situation particulièrement favorable. Pour représenter cela par les règle, la Conteuse peut annoncer que le jet seras fait **avec Avantage**. Un jet avec Avantage consiste à lancer trois D6 au lieux de deux, et de garder les deux scores les plus haut.
 
-A l'inverse, il arrive qu'un Personnage aie à faire un jet de dès alors qu'il est dans une position difficile. La Conteuse peux alors annoncer que le jet seras fait **avec Désavantage**. Un jet avec Désavantage consiste à lancer deux D10 au lieux d'un seul, et de garder le score le plus bas
+A l'inverse, il arrive qu'un Personnage aie à faire un jet de dès alors qu'il est dans une position difficile. La Conteuse peux alors annoncer que le jet seras fait **avec Désavantage**. Un jet avec Désavantage consiste à lancer trois D6 au lieux de deux, et de garder les deux scores les plus bas.
 
 L'attribution d'un Avantage ou d'un Désavantage n'est jamais automatique, elle dépend toujours du contexte d'un jet de dès. Les Joueuses peuvent le demander si elles l'estiment justifié, mais c'est la Conteuse qui décide de le donner ou pas.
 ## Critiques
-Quand une Joueuse lance un D10 et fait un 10, c'est une **Réussite Critique**. Quel que soit le Degré de Difficulté (dans le cas d'une Epreuve) ou la valeur de l'adversaire (dans le cas d'une Confrontation), **l'action est réussie**.
-Quand une Joueuse lance un D10 et fait un 1, c'est un **Echec Critique**. Quel que soit le Degré de Difficulté (dans le cas d'une Epreuve) ou la valeur de l'adversaire (dans le cas d'une Confrontation), **l'action est échouée**.
+Quand une Joueuse fait un jet et obtient deux 6, c'est une **Réussite Critique**. Quel que soit le Degré de Difficulté (dans le cas d'une Epreuve) ou la valeur de l'adversaire (dans le cas d'une Confrontation), **l'action est réussie**.
+Quand une Joueuse fait un jet et obtient deux 1, c'est un **Echec Critique**. Quel que soit le Degré de Difficulté (dans le cas d'une Epreuve) ou la valeur de l'adversaire (dans le cas d'une Confrontation), **l'action est échouée**.
 
 Un Critique est également l'occasion d'un changement de narration. **C'est à la Joueuse ayant fait le critique de décrire la scène** et de détailler en quoi sa réussite est particulièrement exceptionnelle, ou son échec particulièrement cuisant. Elle a à cette occasion le droit de demander des bonus ou de s'imposer des malus si la situation le justifie (Avantage ou Désavantages, dégâts supplémentaires ou blessures graves, gain d'objet ou d'expérience, etc).
 
@@ -38,7 +38,7 @@ Il y a d'abord **5 Caractéristiques qui représentent les capacités physiques 
 - **L'Intelligence (INT)** représente les qualités intellectuelles et les connaissances, la capacité à analyser, à se souvenir ou à résister à l'influence d'autrui.
 - **L'Instinct (INS)** représente l'accord entre le corps et l'esprit, la capacité à percevoir, à ressentir ainsi que l'intuition.
 
-Les scores de Caractéristique varient entre des valeurs positives et négatives, en général entre +3 et -3, pour représenter les forces et les faiblesses d'un personnage. Lors d'un Jet de Dès, la Conteuse annonce la caractéristique correspondante à l'action à réaliser, et la joueuse doit ajouter ou soustraire la valeur de son Personnage au score de son D10.
+Les scores de Caractéristique varient entre des valeurs positives et négatives, en général entre +3 et -3, pour représenter les forces et les faiblesses d'un personnage. Lors d'un Jet de Dès, la Conteuse annonce la caractéristique correspondante à l'action à réaliser, et la joueuse doit ajouter ou soustraire la valeur de son Personnage au score de ses deux D6.
 ## Compétences
 Il y a ensuite **des Compétences, qui représentent ce que le Personnage a appris.**
 ### Compétences Innées
@@ -59,10 +59,10 @@ En plus des 8 **Compétences innées**, un Personnage peux avoir un certain nomb
 - La maîtrise d'un artisanat ou d'un art
 - La maîtrise d'une science en particulier
 
-Les scores de ces Compétences varient entre des valeurs positives et négatives, en général entre +3 et -3, pour représenter ce qu'un Personnage sait et ne sait pas faire. Lors d'un Jet de Dès, la Conteuse annonce également la Compétence correspondante à l'action à réaliser, et la Joueuse doit ajouter ou soustraire la valeur de son Personnage au score de son D10.
+Les scores de ces Compétences varient entre des valeurs positives et négatives, en général entre +3 et -3, pour représenter ce qu'un Personnage sait et ne sait pas faire. Lors d'un Jet de Dès, la Conteuse annonce également la Compétence correspondante à l'action à réaliser, et la Joueuse doit ajouter ou soustraire la valeur de son Personnage au score des deux D6.
 
 >**Pour résumer**
->Lorsque la Conteuse demande un jet de Dès, que ce soit durant une **Epreuve** ou une **Confrontation**, elle annonce également une Caractéristique et une Compétence associé. Ces deux valeurs viendront augmenter ou diminuer le score du D10 pour former le Résultat du jet de Dès.
+>Lorsque la Conteuse demande un jet de Dès, que ce soit durant une **Epreuve** ou une **Confrontation**, elle annonce également une Caractéristique et une Compétence associé. Ces deux valeurs viendront augmenter ou diminuer le score des deux D6 pour former le Résultat du jet de Dès.
 
 ## Capacités
 
@@ -104,7 +104,7 @@ La Joueuse peut décrire ses déplacements, ses actions et ses paroles dans ces 
 > 
 > Un PNJ armé d'un arc attaque un PJ qui le voit, et qui essaye d'esquiver : **Conf AD+Arc vs AD+ATH**
 > 
-> Un PJ armé d'un arc attaque un PNJ qui ne le voit pas : **Epreuve AD+Arc DD 4 (Facile)**
+> Un PJ armé d'un arc attaque un PNJ qui ne le voit pas : **Epreuve AD+Arc DD 5 (Facile)**
 > 
 > Un PNJ armé d'une épée attaque un PNJ armé d'une épée, qui le voit et qui essaye de parer : **Conf AD+épée vs AD+épée**
 
@@ -146,8 +146,7 @@ Les armures sont également réparties en 3 tier de protection, qui retranchent 
 >Le système est équilibré autour de Personnage qui hésiterons à risquer leur vie, et qui réfléchirons à deux fois avant d'enlever leur armure.
 ### Types de dégats
 
-Les armes ont chacunes un type de dégat, qui défini ce qui arrive en cas de Coup Critique (10) ou d'Echec Critique (1). Il existe trois types de dégats de base
+Les armes ont chacunes un type de dégat, qui défini ce qui arrive en cas de Coup Critique (12) ou d'Echec Critique (2). Il existe trois types de dégats de base
 - **Tranchant** : Le coup fait une entaille profonde dont le sang s'écoule rapidement. La cible perd 1 pv au début de chacun de ses tours.
 - **Perçant** : Le coup touche un point sensible non protégé. La cible ne retranche aucune armure.
 - **Contondant** : Le coup est d'une violence exceptionnelle. La cible passe son prochain tour.
-:LiSwords: 
