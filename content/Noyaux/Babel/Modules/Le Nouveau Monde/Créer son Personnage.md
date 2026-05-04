@@ -24,7 +24,7 @@ En répondant à ces questions, vous allez pouvoir approfondir ce que vous avez 
 >Si vous avez des questions, sur ce qui est possible ou pas, sur ce que vous pouvez faire ou pas, n'hésitez pas à en parler à votre Conteuse. **La création de votre Personnage doit, autant que possible, se faire en discussion constante avec elle.**
 # Caractéristiques
 
-Comme spécifié dans [[Mind Over Matter/Noyaux/HARSH/index|HARSH]], votre Personnage est défini par 5 Caractéristiques fondamentales, qui représentent ce à quoi il est doué, ou pas. Au début de votre aventure, votre Personnage aura +2 dans une d'elle, +1 dans une autre, +0 dans une troisième, -1 dans une quatrième, et -2 dans la cinquième.
+Votre Personnage est défini par 5 Caractéristiques fondamentales, qui représentent ce à quoi il est doué, ou pas. Au début de votre aventure, votre Personnage aura +2 dans une d'elle, +1 dans une autre, +0 dans une troisième, -1 dans une quatrième, et -2 dans la cinquième.
 
 Vous pouvez répartir ces points comme vous le souhaitez.
 # Compétences Innées

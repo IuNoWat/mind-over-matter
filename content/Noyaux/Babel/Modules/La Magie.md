@@ -23,26 +23,28 @@ Un sort est défini par sa fonction, par la manière dont on l'incante, mais sur
 
 Lancer un sort consiste à en prononcer la formule (composée de Mots de Pouvoirs), mais aussi à l'alimenter en énergie. Il existe deux grandes façon d'alimenter un sort.
 
-La première consiste à puiser dans les réserves de Mana stockées dans le corps du lanceur de sort. C'est la façon la plus simple et rapide de lancer des sorts, mais elle présente deux inconvénients majeurs :
+La première consiste à puiser dans les réserves de **Mana Intérieur**, stockées dans le corps du lanceur de sort. C'est la façon la plus simple et rapide de lancer des sorts, mais elle présente deux inconvénients majeurs :
 - Le premier est que cette méthode est limitée aux sorts du premier et second cercle, à cause des limites naturelles du corps humain
 - Le deuxième, beaucoup plus grave, est qu'il n'est pas possible d'arrêter un sort une fois qu'il a été lancé. Si le sort demande plus d'énergie que prévue, où s'il a été mal formulé, il continuera de puiser dans le corps du lanceur, jusqu'à le tuer. 
 
-La deuxième consiste à puiser le Mana nécessaire dans les flux magiques qui parcourent notre monde. Cela implique des formules beaucoup plus complexes, et un certain nombre de précautions si le sort requiert beaucoup d'énergie, mais c'est la solution qui est conseillée en général.
+La deuxième consiste à puiser dans le **Mana Exterieur**, les flux magiques qui parcourent notre monde. Cela implique des formules beaucoup plus complexes, et un certain nombre de précautions si le sort requiert beaucoup d'énergie, mais c'est la solution qui est conseillée en général.
 
 # Gameplay
 
 Chaque sort possède un certain nombre de caractéristiques :
-Son effet
-Son cercle : le cout en mana
-Sa source d'énergie : le corps du lanceur, ou l'extérieur
-Sa complexité : son DD
+**Son Effet** décrit la manifestation du sort, ses limites dans le temps et dans l'espace, et les informations de Gamepplay nécessaires (DD si Épreuve, dégâts, etc)
+**Son Cercle** décrit la quantité de Mana nécessaire.
+**Sa Source** définit si le sort est lancé à partir du Mana Intérieur (dans le corps du lanceur), ou à partir du Mana Exterieur (une source extérieure). Les deux ne sont pas interchangeable, les premiers sont en général plus rapides et facile à lancer, tandis que les seconds sont plus difficiles à réussir, mais permettent de garder son énergie.
+**Sa Complexité** définit le Degré de Difficulté à réussir pour parvenir à lancer le sort, sur un jet en général de INT+Magie.
 
-Chaque sort maitrisé par le lanceur est considéré comme une capacité. Lorsqu'elle souhaite le lancer, la Joueuse fait un jet INT+magie contre le DD du sort.
+Chaque sort maîtrise par le lanceur est considéré comme une **Capacité** à part entière.
 
-Si le jet est réussi, le sort réussi. Dans le cas d'un sort lancé avec le corps du lanceur, on enlève les points de mana correspondants, dans le cas d'un sort lancé grâce à une source exterieure, on consomme la ressource.
+**Si le jet est réussi, le sort réussi.** Dans le cas d'un sort lancé à partir du Mana Intérieur, on enlève les points de mana correspondants, dans le cas d'un sort lancé grâce au Mana Extérieur, le sort est gratuit.
 
-Si le jet est raté, mais supérieur à la moitié du DD, le sort réussi quand même, mais le lanceur en perds le contrôle. Sa quantité de mana devient zéro.
+**Si le jet est raté, mais supérieur à la moitié du DD, le sort réussi mais le lanceur en perds le contrôle**. Sa quantité de Mana Intérieur devient zéro.
 
-Si un sort devrais puiser du mana dans un corps qui n'en a plus, il épuise le corps à a place. Le lanceur gagne alors le désavantage à l'ensmble de ses jets jusqu'à ce qu'il aie pu prendre une bonne nuit de sommeil.
+**Si le jet est raté, et inférieur à la moitié du DD, le sort échoue**. La quantité de Mana Intérieur du lanceur devient également zéro.
 
-Si un sort devrais puiser du mana dan un corps qui n'en a plus et qui est épuisé, le lanceur de sort en meurt.
+Si un sort devrais puiser du mana dans un corps qui n'a plus de Mana Intérieur, il épuise le corps à la place. Le lanceur gagne alors le désavantage à l’ensemble de ses jets jusqu'à ce qu'il aie pu prendre une bonne nuit de sommeil.
+
+Si un sort devrais puiser du mana dans un corps qui n'a plus de Mana Intérieur, le lanceur de sort en meurt.

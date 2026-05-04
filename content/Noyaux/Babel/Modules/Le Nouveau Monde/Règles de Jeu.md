@@ -1,5 +1,6 @@
 # Principe Général
-HARSH se joue principalement avec des D6, qui sont utilisés par les Joueuses et la Conteuse dans le cadre d'**Epreuves** et de **Confrontations**.
+
+Pour jouer dans le Nouveau Monde, on reprends les règles de [[Noyaux/Babel/Règles de jeu|Babel]], mais on fait ses jets à l'aide de deux D6, dans le cadre d'**Epreuves** et de **Confrontations**.
 ## Épreuves
 Quand une Joueuse souhaite accomplir une action qui n'est pas triviale, la Conteuse peut lui demander une **Épreuve**. La Joueuse lance alors deux D6, ajoute des éventuels bonus ou malus, et cherche à faire un score supérieur à un seuil décidé par la Conteuse. On appelle ce seuil le **Degré de Difficulté (ou DD)** de l'**Epreuve**. Si elle fait un score supérieur ou égal, elle réussi, si elle fait un score inférieur, elle échoue. La Conteuse décrit alors la scène correspondante.
 
@@ -26,7 +27,7 @@ L'attribution d'un Avantage ou d'un Désavantage n'est jamais automatique, elle 
 Quand une Joueuse fait un jet et obtient deux 6, c'est une **Réussite Critique**. Quel que soit le Degré de Difficulté (dans le cas d'une Epreuve) ou la valeur de l'adversaire (dans le cas d'une Confrontation), **l'action est réussie**.
 Quand une Joueuse fait un jet et obtient deux 1, c'est un **Echec Critique**. Quel que soit le Degré de Difficulté (dans le cas d'une Epreuve) ou la valeur de l'adversaire (dans le cas d'une Confrontation), **l'action est échouée**.
 
-Un Critique est également l'occasion d'un changement de narration. **C'est à la Joueuse ayant fait le critique de décrire la scène** et de détailler en quoi sa réussite est particulièrement exceptionnelle, ou son échec particulièrement cuisant. Elle a à cette occasion le droit de demander des bonus ou de s'imposer des malus si la situation le justifie (Avantage ou Désavantages, dégâts supplémentaires ou blessures graves, gain d'objet ou d'expérience, etc).
+Un Critique est également l'occasion d'un changement de narration. **C'est à la Joueuse ayant fait le critique de décrire la scène** et de détailler en quoi sa réussite est particulièrement exceptionnelle, ou son échec particulièrement cuisant. A cette occasion, elle peut demander des bonus ou de s'imposer des malus si la situation le justifie, toujours à la discrétion de la Conteuse : Avantage ou Désavantages, dégâts supplémentaires ou blessures graves, gain d'objet ou d'expérience, etc.
 
 # Personnages 
 Les Personnages joués par les Joueuses sont définis par un ensemble de scores qui influencent leurs jets. Ces score sont leurs Caractéristiques, leurs Compétences et leurs Capacités.
