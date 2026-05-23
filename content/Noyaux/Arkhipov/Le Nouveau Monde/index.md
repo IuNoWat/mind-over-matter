@@ -1,5 +1,5 @@
 ---
-title: Bienvenue dans le Nouveau Monde
+title: Le Nouveau Monde
 ---
 Le Nouveau Monde est un univers de médiéval-fantasy assez classique. Des peuples humains, elfes, nains et semi-hommes vivent en relative harmonie au sein de sociétés médiévales. La magie est présente, mais encore assez mal maitrisée, étudiée dans des universités. Plusieurs panthéons coexistent en paix, et les dieux ne sont présents qu'à travers les pouvoirs des membres de leurs cultes respectifs.
 
