@@ -1,5 +1,8 @@
 
 # ROADMAP
+
+## Pour le 25/05
+- Page d'accueil fonctionnelle pour Le Nouveau Monde
 ## Pour Présenter aux Copains
 - [x] Terminer une première version de la Philosophie
 - [x] Ecrire la page "C'est quoi le Jeu de Rôle ?"
