@@ -1,0 +1,18 @@
+views:
+  - type: table
+    name: Tableau
+    filters:
+      or:
+        - Type.containsAny("Action", "Objet", "Passif")
+    order:
+      - file.name
+      - Type
+      - Classe
+      - Noyau
+      - Module
+      - tags
+    sort:
+      - property: Type
+        direction: DESC
+      - property: Classe
+        direction: DESC
