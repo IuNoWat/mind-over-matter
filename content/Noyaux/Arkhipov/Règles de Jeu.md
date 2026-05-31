@@ -15,30 +15,7 @@ A titre indicatif :
 |   Difficile    |          9          |
 | Très Difficile |         11          |
 |   Impossible   |         13          |
-Chances de passage des Degré de Difficulté - Jet Standard
 
-|     |  2   |  3   |  4   |  5   |  6   |  7  |  8  |  9  | 10  | 11  | 12  |
-| :-: | :--: | :--: | :--: | :--: | :--: | :-: | :-: | :-: | :-: | :-: | :-: |
-| +4  | 100% | 100% | 100% | 100% | 100% | 97% | 92% | 83% | 72% | 58% | 42% |
-| +2  | 100% | 100% | 100% | 97%  | 92%  | 83% | 72% | 58% | 42% | 28% | 17% |
-|  0  | 100% | 97%  | 92%  | 83%  | 72%  | 58% | 42% | 28% | 17% | 8%  | 3%  |
-| -2  | 92%  | 83%  | 72%  | 58%  | 42%  | 28% | 17% | 8%  | 3%  | 0%  | 0%  |
-Chances de passage des Degré de Difficulté -  Avantage
-
-|     |  2   |  3   |  4   |  5   |  6   |  7  |  8  |  9  | 10  | 11  | 12  |
-| :-: | :--: | :--: | :--: | :--: | :--: | :-: | :-: | :-: | :-: | :-: | :-: |
-| +4  | 100% | 100% | 100% | 100% | 100% | 99% | 98% | 95% | 89% | 81% | 68% |
-| +2  | 100% | 100% | 100% | 99%  | 98%  | 95% | 89% | 81% | 68% | 52% | 36% |
-|  0  | 100% | 99%  | 98%  | 95%  | 89%  | 81% | 68% | 52% | 36% | 20% | 7%  |
-| -2  | 98%  | 95%  | 89%  | 81%  | 68%  | 52% | 36% | 20% | 7%  | 0%  | 0%  |
-Chances de passage des Degré de Difficulté -  Désavantage
-
-|     |  2   |  3   |  4   |  5   |  6   |  7  |  8  |  9  |  10   | 11  |  12   |
-| :-: | :--: | :--: | :--: | :--: | :--: | :-: | :-: | :-: | :---: | :-: | :---: |
-| +4  | 100% | 100% | 100% | 100% | 100% | 93% | 80% | 64% |  48%  | 32% |  19%  |
-| +2  | 100% | 100% | 100% | 93%  | 80%  | 64% | 48% | 32% |  19%  | 11% |  5%   |
-|  0  | 100% | 93%  | 80%  | 64%  | 48%  | 32% | 19% | 11% |  5%   | 2%  | 0,45% |
-| -2  | 80%  | 64%  | 48%  | 32%  | 19%  | 11% | 5%  | 2%  | 0,45% | 0%  |  0%   |
 ## Confrontations
 Quand une Joueuse interagi avec un être doué de volonté, la résolution d'une action passe par une **Confrontation**. La Joueuse lance deux D6 et ajoute ses éventuels bonus ou malus, et la Conteuse fait de même, pour représenter l'action ou l'opposition de l'adversaire. Celle qui a fait le plus haut score emporte la **Confrontation**, et la Conteuse décrit la scène qui en découle. En cas d'égalité, c'est celle qui a initié la confrontation qui gagne.
 ## Avantage & Désavantage
