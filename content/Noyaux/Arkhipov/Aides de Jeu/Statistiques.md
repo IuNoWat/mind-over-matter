@@ -1,7 +1,4 @@
-
-
-
-Chances de passage des Degré de Difficulté - Jet Standard
+# Chances de passage des Degré de Difficulté - Jet Standard
 
 |     |  2   |  3   |  4   |  5   |  6   |  7  |  8  |  9  | 10  | 11  | 12  | 13  | 14  |
 | :-: | :--: | :--: | :--: | :--: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | --- | --- |
@@ -10,7 +7,7 @@ Chances de passage des Degré de Difficulté - Jet Standard
 |  0  | 100% | 97%  | 92%  | 83%  | 72%  | 58% | 42% | 28% | 17% | 8%  | 3%  | 0%  | 0%  |
 | -2  | 92%  | 83%  | 72%  | 58%  | 42%  | 28% | 17% | 8%  | 3%  | 0%  | 0%  | 0%  | 0%  |
 
-Chances de passage des Degré de Difficulté -  Avantage
+# Chances de passage des Degré de Difficulté -  Avantage
 
 |     |  2   |  3   |  4   |  5   |  6   |  7  |  8  |  9  | 10  | 11  | 12  | 13  | 14  |
 | :-: | :--: | :--: | :--: | :--: | :--: | :-: | :-: | :-: | :-: | :-: | :-: | --- | --- |
@@ -19,7 +16,7 @@ Chances de passage des Degré de Difficulté -  Avantage
 |  0  | 100% | 99%  | 98%  | 95%  | 89%  | 81% | 68% | 52% | 36% | 20% | 7%  | 0%  | 0%  |
 | -2  | 98%  | 95%  | 89%  | 81%  | 68%  | 52% | 36% | 20% | 7%  | 0%  | 0%  | 0%  | 0%  |
 
-Chances de passage des Degré de Difficulté -  Désavantage
+# Chances de passage des Degré de Difficulté -  Désavantage
 
 |     |  2   |  3   |  4   |  5   |  6   |  7  |  8  |  9  |  10   | 11  |  12   | 13  | 14    |
 | :-: | :--: | :--: | :--: | :--: | :--: | :-: | :-: | :-: | :---: | :-: | :---: | --- | ----- |
