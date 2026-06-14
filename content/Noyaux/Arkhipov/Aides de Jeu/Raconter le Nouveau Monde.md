@@ -1,3 +1,6 @@
+---
+password: MJ
+---
 
 > [!warning] Attention
 > **La suite de cette  page est à l'usage exclusif de la Conteuse. A moins d'être une Joueuse très expérimentée, nous vous déconseillons fortement de lire la suite.**
